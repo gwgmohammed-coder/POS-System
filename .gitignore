@@ -1,0 +1,32 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.so
+*.a
+
+# IDE / editor files
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# CMake build directories
+build/
+cmake-build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local executable
+POS
+POS.exe
