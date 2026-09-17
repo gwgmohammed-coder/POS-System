@@ -1,0 +1,8 @@
+============================================================
+                 NEW SALE
+
+             Available Products
+             ------------------
+
+          Enter Product ID or Name
+          (type "exit" to finish): 

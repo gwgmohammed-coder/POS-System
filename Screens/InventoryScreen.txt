@@ -1,0 +1,7 @@
+============================================================
+                STOCK MANAGEMENT
+
+                1. Increase Stock
+                2. Decrease Stock
+                3. Back
+

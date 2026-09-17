@@ -1,0 +1,11 @@
+============================================================
+
+                USER MANAGEMENT
+
+                1. Add User
+                2. Remove User
+                3. Update User Information
+                4. Display All Users
+                5. Back
+
+ 

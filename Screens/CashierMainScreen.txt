@@ -1,0 +1,12 @@
+============================================================
+                        POS SYSTEM
+                         CASHIER
+
+                        1. New Sale
+                        2. View Sales
+                        3. Logout
+                        4. Exit Program
+
+
+
+

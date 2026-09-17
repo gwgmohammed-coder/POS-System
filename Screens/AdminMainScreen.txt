@@ -1,0 +1,12 @@
+============================================================
+
+                  POS SYSTEM
+                MANAGER / ADMIN
+
+                1. User Management
+                2. Product Management
+                3. Stock Management
+                4. View Sales
+                5. Logout
+                6. Exit Program
+
